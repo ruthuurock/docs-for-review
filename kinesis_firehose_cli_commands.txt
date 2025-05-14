@@ -1,0 +1,1 @@
+aws firehose put-record --delivery-stream-name mydeliverystream --record file://D:\HTC\Training\AWS\Advanced_DA_AWS\SLIDES_2021\Kinesis\Day_2_Firehose\sample_data.json
